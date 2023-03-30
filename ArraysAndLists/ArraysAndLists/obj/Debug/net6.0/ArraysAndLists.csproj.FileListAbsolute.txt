@@ -1,0 +1,15 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\refint\ArraysAndLists.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ref\ArraysAndLists.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Car_Insurance_System/1.0.0": {
+        "runtime": {
+          "Car_Insurance_System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car_Insurance_System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

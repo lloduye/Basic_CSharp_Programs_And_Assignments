@@ -1,0 +1,15 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\bin\Debug\net6.0\ConsoleAppAssignment5.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\bin\Debug\net6.0\ConsoleAppAssignment5.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\bin\Debug\net6.0\ConsoleAppAssignment5.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\bin\Debug\net6.0\ConsoleAppAssignment5.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\bin\Debug\net6.0\ConsoleAppAssignment5.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\refint\ConsoleAppAssignment5.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ConsoleAppAssignment5.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppAssignment1\ConsoleAppAssignment5\obj\Debug\net6.0\ref\ConsoleAppAssignment5.dll

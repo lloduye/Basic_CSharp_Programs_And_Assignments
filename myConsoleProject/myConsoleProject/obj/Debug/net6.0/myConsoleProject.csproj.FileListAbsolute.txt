@@ -1,0 +1,15 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\net6.0\myConsoleProject.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\refint\myConsoleProject.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\myConsoleProject.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\net6.0\ref\myConsoleProject.dll

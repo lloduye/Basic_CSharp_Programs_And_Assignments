@@ -1,0 +1,15 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\net6.0\Student_Daily_Report.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\net6.0\Student_Daily_Report.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\net6.0\Student_Daily_Report.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\net6.0\Student_Daily_Report.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\net6.0\Student_Daily_Report.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\refint\Student_Daily_Report.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\Student_Daily_Report.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\net6.0\ref\Student_Daily_Report.dll

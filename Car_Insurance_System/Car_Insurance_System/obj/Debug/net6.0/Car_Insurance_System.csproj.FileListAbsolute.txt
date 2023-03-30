@@ -1,0 +1,30 @@
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.exe
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.deps.json
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.runtimeconfig.json
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.dll
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.pdb
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.csproj.AssemblyReference.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.AssemblyInfoInputs.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.AssemblyInfo.cs
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.csproj.CoreCompileInputs.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.dll
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\refint\Car_Insurance_System.dll
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.pdb
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.genruntimeconfig.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\ref\Car_Insurance_System.dll
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.exe
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.deps.json
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.runtimeconfig.json
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.dll
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\bin\Debug\net6.0\Car_Insurance_System.pdb
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.csproj.AssemblyReference.cache
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.AssemblyInfoInputs.cache
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.AssemblyInfo.cs
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.dll
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\refint\Car_Insurance_System.dll
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.pdb
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\Car_Insurance_System.genruntimeconfig.cache
+C:\Users\lawdu\Source\Repos\lloduye\The_Tech_Academy_Basic_C-Sharp_Projects\Car_Insurance_System\Car_Insurance_System\obj\Debug\net6.0\ref\Car_Insurance_System.dll
