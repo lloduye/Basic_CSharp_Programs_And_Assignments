@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class Card
+    public class Card
     {
         public string Suit { get; set; }
         public string Face { get; set; }

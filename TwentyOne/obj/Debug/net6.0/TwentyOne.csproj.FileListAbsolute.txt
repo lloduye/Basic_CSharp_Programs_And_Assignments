@@ -1,15 +1,5 @@
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.exe
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.deps.json
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.runtimeconfig.json
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.dll
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.pdb
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.csproj.AssemblyReference.cache
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.AssemblyInfoInputs.cache
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.AssemblyInfo.cs
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.csproj.CoreCompileInputs.cache
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.dll
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\refint\TwentyOne.dll
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.pdb
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.genruntimeconfig.cache
-D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\ref\TwentyOne.dll
