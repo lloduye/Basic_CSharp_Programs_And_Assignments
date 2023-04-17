@@ -1,0 +1,15 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\bin\Debug\net6.0\MainMethodAssignment.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\bin\Debug\net6.0\MainMethodAssignment.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\bin\Debug\net6.0\MainMethodAssignment.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\bin\Debug\net6.0\MainMethodAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\bin\Debug\net6.0\MainMethodAssignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\refint\MainMethodAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\MainMethodAssignment.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MainMethodAssignment\obj\Debug\net6.0\ref\MainMethodAssignment.dll
