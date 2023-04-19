@@ -12,6 +12,7 @@ namespace TwentyOne
         {
             List<string> Suits = new List<string>()
             { "Clubs", "Hearts", "Spades","Diamonds"};
+
             List<string> Faces = new List<string>()
             { "Two", "Three", "Four", "Five", "Six", "Seven",
             "Eight", "Nine", "Ten", "Jack", "Queen", "Ace", "King"};

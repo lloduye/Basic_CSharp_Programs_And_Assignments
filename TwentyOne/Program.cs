@@ -12,7 +12,7 @@ namespace TwentyOne
         {
             Deck deck=new Deck();
 
-            Console.WriteLine(deck.Cards[0].Face);
+            Console.WriteLine(deck);
         }
     }
 }
