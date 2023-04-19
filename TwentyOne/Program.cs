@@ -11,6 +11,7 @@ namespace TwentyOne
         static void Main(string[] args) 
         {
             Deck deck=new Deck();
+            deck.shuffle(3);
 
             Console.WriteLine(deck);
         }
