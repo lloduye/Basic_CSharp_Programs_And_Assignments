@@ -15,7 +15,8 @@ namespace TwentyOne
             Deck deck = new Deck();
 
             //Return deck
-            deck= Shuffle(deck);
+            deck= Shuffle(deck, 3);
+
             //printing all the cards in the deck to console
             foreach (Card card in deck.Cards)
             {
@@ -27,8 +28,12 @@ namespace TwentyOne
 
         //Create a shuffle function that takes in a deck of cards,
         //shuffles them and returns a shuffled deck
-        public static Deck Shuffle(Deck deck)
+        public static Deck Shuffle(Deck deck, int times = 1)
         {
+            for (int i = 0; i < times; i++)
+            {
+
+            }
             //create a temporary list of cards
             List<Card> Templist = new List<Card>();
             //instantite a random by creating random
@@ -36,7 +41,7 @@ namespace TwentyOne
 
             //Create while loop
             while (deck.Cards.Count > 0)
-            {   
+            {
                 //create a random index
                 int randomindex = random.Next(0, deck.Cards.Count);
                 //Add deck of cards to a temporary list created
@@ -47,5 +52,6 @@ namespace TwentyOne
             deck.Cards = Templist;
             return deck;
         }
+           
     }
 }
