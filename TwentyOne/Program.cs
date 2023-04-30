@@ -9,5 +9,13 @@ namespace TwentyOne
 {
     class Program
     {
-        Console.Readline("");
+        static void Main()
+        {
+            Console.Readline("Welcome to the Grand Hotel Casino. Let's start by telling me your name.");
+            string playerName = Console.Readline();
+            Console.ReadLine();
+            Console.WriteLine("And How much money did you bring today?");
+            Console.ReadLine();
+        }
     }
+}
