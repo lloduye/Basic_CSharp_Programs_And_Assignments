@@ -9,5 +9,5 @@ namespace TwentyOne
 {
     class Program
     {
-
+        Console.Readline("");
     }
