@@ -13,24 +13,25 @@ namespace OperatorsAsssignment
             //Object 1
             Employee Michael = new Employee();
             Michael.FirstName = "Michael";
-            Michael.Id = 203;
+            Michael.Id = 201;
 
             //Object 2
             Employee Susan = new Employee();
             Susan.FirstName = "Susan";
             Susan.Id = 42;
 
-            Employee.comparisonOp(Michael, Susan); 
+            //Comparing the two employee objects using the newly
+            //overloadedd operators and displaying the results
+            
+                if (Michael.Id == Susan.Id)
                 {
-                    if (Michael.Id == Susan.Id)
-                    {
-                    Console.WriteLine(Michael.FirstName + " Has the same ID " + Michael.Id + " as " + Susan.Id);
-                    }
-                    else
-                    {
-                    Console.WriteLine(Michael.FirstName + " employee Id is not same as " + Susan.FirstName + " employee Id");
-                    }
-                };
+                Console.WriteLine(Michael.FirstName + " Has the same ID " + Michael.Id + " as " + Susan.Id);
+                }
+                else
+                {
+                Console.WriteLine(Michael.FirstName + " employee Id is not same as " + Susan.FirstName + " employee Id");
+                }
+                Console.ReadLine();
         }
     }
 }
