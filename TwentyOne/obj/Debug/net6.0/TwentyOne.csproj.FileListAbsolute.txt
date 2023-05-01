@@ -1,15 +1,5 @@
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.exe
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.deps.json
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.runtimeconfig.json
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.dll
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\net6.0\TwentyOne.pdb
 C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.csproj.AssemblyReference.cache
 C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.AssemblyInfoInputs.cache
 C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.AssemblyInfo.cs
 C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.csproj.CoreCompileInputs.cache
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.dll
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\refint\TwentyOne.dll
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.pdb
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\TwentyOne.genruntimeconfig.cache
-C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\net6.0\ref\TwentyOne.dll

@@ -12,7 +12,6 @@ namespace TwentyOne
         {
             Console.Readline("Welcome to the Grand Hotel Casino. Let's start by telling me your name.");
             string playerName = Console.Readline();
-            Console.ReadLine();
             Console.WriteLine("And How much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hello, {0}. Would you like to join the game of 21 right now?", playerName);
@@ -28,7 +27,11 @@ namespace TwentyOne
                 {
                     game.Play();
                 }
+                game -= player;
+                Console.WriteLine("Thank you for playing!")
             }
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.ReadLine();
         }
     }
 }
