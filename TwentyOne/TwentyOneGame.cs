@@ -74,7 +74,35 @@ namespace TwentyOne
                     Console.WriteLine("Your cards are: ");
                     foreach (Card card in player.Hand)
                     {
-                        Console.WriteLine("{0} ",)
+                        Console.WriteLine("{0} ", card.ToString());
+                    }
+                    Console.WriteLine("\n\nHiit or stay?");
+                    string answer = Console.ReadLine().ToLower();
+                    if (answer == "stay")
+                    {
+                        player.Stay = true;
+                        break;
+                    }
+                    else if (answer == "hit")
+                    {
+                        Dealer.Deal(player.Hand);
+                    }
+                    bool busted = TwentyOneRules.IsBusted(player.Hand);
+                    if (busted)
+                    {
+                        Dealer.Balance += Bets[player];
+                        Console.WriteLine("{0} Busted! you lose your bet of {1}. Your balance is now {2}.",player.Name, Bets[player], player.Balance);
+                        Console.WriteLine("Do you want to play again?");
+                        answer = Console.ReadLine().ToLower();
+
+                        if (answer == "yes" || answer == "yeah")
+                        {
+                            player.IsActivelyPlaying = true;
+                        }
+                        else
+                        {
+                            player.IsActivelyPlaying = false;
+                        }
                     }
                 }
             }

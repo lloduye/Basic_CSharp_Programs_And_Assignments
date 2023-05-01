@@ -10,6 +10,11 @@ namespace TwentyOne
     {
         public string Face { set; get; }
         public string Suit { set; get; }
+
+        public override string ToString()
+        {
+            return string.Format("{0} of {1}", Face, Suit);
+        }
     }
     public enum Suit
     {
