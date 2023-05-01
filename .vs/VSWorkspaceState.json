@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TwentyOne",
-    "\\TwentyOne\\bin",
-    "\\TwentyOne\\bin\\Release",
-    "\\TwentyOne\\obj\\Debug"
+    "\\TwentyOne"
   ],
-  "SelectedNode": "\\TwentyOne\\Program.cs",
+  "SelectedNode": "\\TwentyOne\\TwentyOneRules.cs",
   "PreviewInSolutionExplorer": false
 }
