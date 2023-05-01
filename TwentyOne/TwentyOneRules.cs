@@ -25,17 +25,28 @@ namespace TwentyOne
             [Face.King] = 10,
             [Face.Ace] = 1,
         };
-        public static int[] GetAllPossibleHandValues(List<Card> Hand)
+        private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
             int[] results = new int[aceCount + 1];
             int value = Hand.Sum (x=> _cardValues[x.Face]);
             results[0] = value;
-            if (results.Length ==1 ) return results;
+            if (results.Length ==1 )
+            {
+                return results;
+            }
+            for (int i = 1; i < results.Length; i++)
+            {
+                value += (i * 10);
+                results[i] = value;
+            }
+            return results;
         }
         public static bool CheckForBlackJack(List<Card> Hand)
         {
-
+            int[] possibleValues = GetAllPossibleHandValues(Hand);
+            int valuee = possibleValues.Max();
+            if (valuee==21) return true; else return false;
         }
     }
 }
