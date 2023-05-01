@@ -1,0 +1,8 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.pdb
