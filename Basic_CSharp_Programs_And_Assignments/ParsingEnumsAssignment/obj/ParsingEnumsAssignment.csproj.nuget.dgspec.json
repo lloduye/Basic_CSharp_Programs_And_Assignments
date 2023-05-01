@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/TwentyOne/TwentyOne.csproj": {}
+    "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/ParsingEnumsAssignment.csproj": {}
   },
   "projects": {
-    "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/TwentyOne/TwentyOne.csproj": {
+    "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/ParsingEnumsAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/TwentyOne/TwentyOne.csproj",
-        "projectName": "TwentyOne",
-        "projectPath": "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/TwentyOne/TwentyOne.csproj",
+        "projectUniqueName": "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/ParsingEnumsAssignment.csproj",
+        "projectName": "ParsingEnumsAssignment",
+        "projectPath": "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/ParsingEnumsAssignment.csproj",
         "packagesPath": "/Users/loduye/.nuget/packages/",
-        "outputPath": "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/TwentyOne/obj/",
+        "outputPath": "/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/loduye/.nuget/NuGet/NuGet.Config"

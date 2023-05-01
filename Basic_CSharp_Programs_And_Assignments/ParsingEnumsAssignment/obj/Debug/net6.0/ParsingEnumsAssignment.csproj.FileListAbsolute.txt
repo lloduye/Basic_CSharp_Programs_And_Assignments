@@ -1,0 +1,15 @@
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/bin/Debug/net6.0/ParsingEnumsAssignment
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/bin/Debug/net6.0/ParsingEnumsAssignment.deps.json
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/bin/Debug/net6.0/ParsingEnumsAssignment.runtimeconfig.json
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/bin/Debug/net6.0/ParsingEnumsAssignment.dll
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/bin/Debug/net6.0/ParsingEnumsAssignment.pdb
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.csproj.AssemblyReference.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.AssemblyInfoInputs.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.AssemblyInfo.cs
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.dll
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/refint/ParsingEnumsAssignment.dll
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.pdb
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ParsingEnumsAssignment.genruntimeconfig.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/Basic_CSharp_Programs_And_Assignments/Basic_CSharp_Programs_And_Assignments/ParsingEnumsAssignment/obj/Debug/net6.0/ref/ParsingEnumsAssignment.dll

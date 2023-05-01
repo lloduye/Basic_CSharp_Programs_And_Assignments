@@ -1,31 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Player
+namespace TwentyOne
 {
-    public Player(string name, int beginingBalance)
+    public class Player
     {
-        Hand = new List<Card>();
-        Balance = beginingBalance;
-        Name = name;
-    }
-    public List<Card> Hand { get; set;}
-    public int Balance { get; set;}
-    public string Name { get; set;}
-    public bool IsActivelyPlaying { get; set; }
+        public Player(string name, int beginingBalance)
+        {
+            Hand = new List<Card>();
+            Balance = beginingBalance;
+            Name = name;
+        }
+        public List<Card> Hand { get; set; }
+        public int Balance { get; set; }
+        public string Name { get; set; }
+        public bool IsActivelyPlaying { get; set; }
 
-    public static Game operator +(Game game, Player player)
-    {
-        game.Players.Add(player);
-        return game;
-    }
-    public static Game operator -(Game game, Player player)
-    {
-        game.players.Remove(player);
-        return game;
+        public static Game operator +(Game game, Player player)
+        {
+            game.Players.Add(player);
+            return game;
+        }
+        public static Game operator -(Game game, Player player)
+        {
+            game.players.Remove(player);
+            return game;
+        }
     }
 }
+
+
