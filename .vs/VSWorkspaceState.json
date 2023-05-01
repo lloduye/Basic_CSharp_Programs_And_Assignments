@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TwentyOne"
   ],
-  "SelectedNode": "\\.DS_Store",
+  "SelectedNode": "\\TwentyOne\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
