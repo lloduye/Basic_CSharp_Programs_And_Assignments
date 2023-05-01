@@ -1,0 +1,3 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache

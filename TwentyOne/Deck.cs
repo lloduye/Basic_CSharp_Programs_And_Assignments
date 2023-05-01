@@ -32,5 +32,10 @@ namespace TwentyOne
             }
         }
         public List<Card> Cards { get; set; }
+
+        internal void Shuffle()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

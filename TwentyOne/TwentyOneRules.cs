@@ -28,19 +28,19 @@ namespace TwentyOne
         private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
-            int[] results = new int[aceCount + 1];
+            int[] result = new int[aceCount + 1];
             int value = Hand.Sum (x=> _cardValues[x.Face]);
-            results[0] = value;
-            if (results.Length ==1 )
+            result[0] = value;
+            if (result.Length ==1 )
             {
-                return results;
+                return result;
             }
-            for (int i = 1; i < results.Length; i++)
+            for (int i = 1; i < result.Length; i++)
             {
                 value += (i * 10);
-                results[i] = value;
+                result[i] = value;
             }
-            return results;
+            return result;
         }
         public static bool CheckForBlackJack(List<Card> Hand)
         {
