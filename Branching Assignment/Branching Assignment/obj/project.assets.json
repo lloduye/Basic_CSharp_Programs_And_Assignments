@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\UEC Staff\\.nuget\\packages\\": {}
+    "C:\\Users\\lawdu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UEC Staff\\OneDrive - Ulnooweg Education Center\\Documents\\GitHub\\AOLCC-School-Projects\\The_Tech_Academy_Basic_C-Sharp_Projects\\Branching Assignment\\Branching Assignment\\Branching Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\lawdu\\OneDrive\\Desktop\\Basic_CSharp_Programs_And_Assignments\\Branching Assignment\\Branching Assignment\\Branching Assignment.csproj",
       "projectName": "Branching Assignment",
-      "projectPath": "C:\\Users\\UEC Staff\\OneDrive - Ulnooweg Education Center\\Documents\\GitHub\\AOLCC-School-Projects\\The_Tech_Academy_Basic_C-Sharp_Projects\\Branching Assignment\\Branching Assignment\\Branching Assignment.csproj",
-      "packagesPath": "C:\\Users\\UEC Staff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UEC Staff\\OneDrive - Ulnooweg Education Center\\Documents\\GitHub\\AOLCC-School-Projects\\The_Tech_Academy_Basic_C-Sharp_Projects\\Branching Assignment\\Branching Assignment\\obj\\",
+      "projectPath": "C:\\Users\\lawdu\\OneDrive\\Desktop\\Basic_CSharp_Programs_And_Assignments\\Branching Assignment\\Branching Assignment\\Branching Assignment.csproj",
+      "packagesPath": "C:\\Users\\lawdu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lawdu\\OneDrive\\Desktop\\Basic_CSharp_Programs_And_Assignments\\Branching Assignment\\Branching Assignment\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\UEC Staff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lawdu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

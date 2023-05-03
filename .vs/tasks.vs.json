@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Basic_CSharp_Programs_And_Assignments",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

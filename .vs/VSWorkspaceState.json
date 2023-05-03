@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\MainMethodAssignment"
   ],
+=======
+    "\\TwentyOne"
+  ],
+  "SelectedNode": "\\TwentyOne\\TwentyOneRules.cs",
+>>>>>>> 69399d5d69940750e1181fd1c50f471eeab727e0
   "PreviewInSolutionExplorer": false
 }

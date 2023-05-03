@@ -13,3 +13,18 @@ C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-S
 C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.pdb
 C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.genruntimeconfig.cache
 C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Documents\GitHub\AOLCC-School-Projects\The_Tech_Academy_Basic_C-Sharp_Projects\Branching Assignment\Branching Assignment\obj\Debug\net6.0\ref\Branching Assignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\bin\Debug\net6.0\Branching Assignment.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\bin\Debug\net6.0\Branching Assignment.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\bin\Debug\net6.0\Branching Assignment.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\bin\Debug\net6.0\Branching Assignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\bin\Debug\net6.0\Branching Assignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\refint\Branching Assignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\Branching Assignment.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\Branching Assignment\Branching Assignment\obj\Debug\net6.0\ref\Branching Assignment.dll

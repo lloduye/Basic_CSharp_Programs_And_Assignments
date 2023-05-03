@@ -1,0 +1,15 @@
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/bin/Debug/net6.0/IQuittable
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/bin/Debug/net6.0/IQuittable.deps.json
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/bin/Debug/net6.0/IQuittable.runtimeconfig.json
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/bin/Debug/net6.0/IQuittable.dll
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/bin/Debug/net6.0/IQuittable.pdb
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.csproj.AssemblyReference.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.AssemblyInfoInputs.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.AssemblyInfo.cs
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.csproj.CoreCompileInputs.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.dll
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/refint/IQuittable.dll
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.pdb
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/IQuittable.genruntimeconfig.cache
+/Users/loduye/Desktop/Visual Studio and .Net Frameworks/IQuittable/IQuittable/obj/Debug/net6.0/ref/IQuittable.dll

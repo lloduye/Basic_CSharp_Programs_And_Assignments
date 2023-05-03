@@ -9,12 +9,16 @@ namespace TwentyOne
     public class Deck
     {
         public Deck()
-        {
-            List<string> Suits = new List<string>()
-            { "Clubs", "Hearts", "Spades","Diamonds"};
+        {   
+            Cards = new List<Card>();
+
+            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
+
             List<string> Faces = new List<string>()
-            { "Two", "Three", "Four", "Five", "Six", "Seven",
-            "Eight", "Nine", "Ten", "Jack", "Queen", "Ace", "King"};
+            {
+                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
+                "Jack", "Queen","King" ,"Ace"
+            };
 
             foreach (string face in Faces)
             {
@@ -27,6 +31,6 @@ namespace TwentyOne
                 }
             }
         }
-        public List<Cards> Cards { get; set; }
+        public List<Card> Cards { get; set; }
     }
 }
