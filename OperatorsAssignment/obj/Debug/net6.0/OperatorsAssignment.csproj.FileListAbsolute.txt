@@ -1,0 +1,30 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\refint\OperatorsAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\OperatorsAssignment\obj\Debug\net6.0\ref\OperatorsAssignment.dll
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.exe
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.deps.json
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.runtimeconfig.json
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.dll
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\bin\Debug\net6.0\OperatorsAssignment.pdb
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.dll
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\refint\OperatorsAssignment.dll
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.pdb
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\OperatorsAssignment.genruntimeconfig.cache
+C:\Users\UEC Staff\OneDrive - Ulnooweg Education Center\Desktop\Software DevOps\OperatorsAssignment\obj\Debug\net6.0\ref\OperatorsAssignment.dll

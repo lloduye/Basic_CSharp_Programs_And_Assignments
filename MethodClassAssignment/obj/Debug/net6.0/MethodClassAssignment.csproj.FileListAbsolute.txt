@@ -1,0 +1,15 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\bin\Debug\net6.0\MethodClassAssignment.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\bin\Debug\net6.0\MethodClassAssignment.deps.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\bin\Debug\net6.0\MethodClassAssignment.runtimeconfig.json
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\bin\Debug\net6.0\MethodClassAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\bin\Debug\net6.0\MethodClassAssignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.AssemblyInfoInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.AssemblyInfo.cs
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\refint\MethodClassAssignment.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\MethodClassAssignment.genruntimeconfig.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\MethodClassAssignment\obj\Debug\net6.0\ref\MethodClassAssignment.dll
