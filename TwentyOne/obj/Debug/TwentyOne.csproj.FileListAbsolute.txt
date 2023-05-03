@@ -6,3 +6,6 @@ D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\D
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\TwentyOne.pdb
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.exe
 D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.pdb
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\Casino.dll
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\bin\Debug\Casino.pdb
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
