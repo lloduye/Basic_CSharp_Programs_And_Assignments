@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public struct Card
     {
-        public string Face { set; get; }
-        public string Suit { set; get; }
+        public  Face Face { set; get; }
+        public  Suit Suit { set; get; }
 
         public override string ToString()
         {

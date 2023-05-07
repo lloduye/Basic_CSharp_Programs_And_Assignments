@@ -1,0 +1,12 @@
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\bin\Debug\net6.0\Casino.deps.json
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\bin\Debug\net6.0\Casino.dll
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\bin\Debug\net6.0\Casino.pdb
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\Casino.csproj.AssemblyReference.cache
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\Casino.AssemblyInfoInputs.cache
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\Casino.AssemblyInfo.cs
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\Casino.csproj.CoreCompileInputs.cache
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\Casino.dll
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\refint\Casino.dll
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\Casino.pdb
+D:\Software DevOps\lloduye\Basic_CSharp_Programs_And_Assignments\Casino\obj\Debug\net6.0\ref\Casino.dll
