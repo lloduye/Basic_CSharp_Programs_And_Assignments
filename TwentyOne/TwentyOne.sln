@@ -5,7 +5,11 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne.csproj", "{32ABF788-2A48-4653-BB4F-134CB7D0A4A0}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casino", "..\Casino\Casino.csproj", "{4CDCBC79-1AA7-4725-9BB7-C54B6E1ECB18}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "..\Casino\Casino.csproj", "{4CDCBC79-1AA7-4725-9BB7-C54B6E1ECB18}"
+>>>>>>> 19883dbd497b06c9ae3ea0a75958343e70d3aa0d
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
