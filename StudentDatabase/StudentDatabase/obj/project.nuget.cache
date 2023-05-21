@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubk8O7lcX7j4w2M8bAcCtbRQ0lvo7ETYI7dHwbjzv5/QFAdG8ALJP6rA2SxUnXFe45N/i9BvGSmNQgakKV4SPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lawdu\\OneDrive\\Desktop\\Basic_CSharp_Programs_And_Assignments\\StudentDatabase\\StudentDatabase\\StudentDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lawdu\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}
