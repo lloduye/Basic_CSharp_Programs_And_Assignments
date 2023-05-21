@@ -1,0 +1,11 @@
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.dll
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CopyComplete
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\lawdu\OneDrive\Desktop\Basic_CSharp_Programs_And_Assignments\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
